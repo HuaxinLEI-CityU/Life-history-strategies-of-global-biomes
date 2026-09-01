@@ -17,3 +17,4 @@
 
 **KEGG_pathway_enrichment.R:** R script for KEGG pathway enrichment analysis based on abundance differential KOs.
 
+**get_PTM.py:** extract potentially transferable metabolites (modified based on https://github.com/mgtools/PhyloMint/blob/master/lib/BuildGraphNetX.py)
