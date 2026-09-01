@@ -1,11 +1,6 @@
 #!/bin/bash
 
-source deactivate
-conda deactivate
-conda activate microbe_census
-
 dir='file_list'
-cd $pathway
 
 for i in $dir
 do
