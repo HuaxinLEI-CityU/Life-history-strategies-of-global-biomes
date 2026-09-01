@@ -1,7 +1,7 @@
 **Supporting materials for manuscript: "Trophic status modulates prokaryotic cross-biome life-history strategies"**
 ===
 
-**Source data**
+**Source data:**
 ---
 
 **Source data**: data for the present study are provided in this manuscript, with additional source data supplied in the supplementary material.
