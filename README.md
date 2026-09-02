@@ -11,7 +11,7 @@
 
 **metawrap.sh:** MetaWRAP assembles reads into contigs, and subsequently bins the contigs into metagenome-assembled genomes (MAGs).
 
-**dRep.sh:**: genome dereplication using dRep.
+**dRep.sh:** genome dereplication using dRep.
 
 **Eukrep.sh:** identify eukaryotic contigs.
 
