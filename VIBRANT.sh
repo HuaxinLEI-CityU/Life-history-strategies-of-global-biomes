@@ -2,6 +2,7 @@
 
 
 dir='file_list'
+
 for i in $dir;
 do
 
