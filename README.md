@@ -4,7 +4,7 @@
 **genome dereplication：** reports of genome dereplication using dRep.
 
 
-**Source data**: data for the present study are provided in this manuscript, with additional source data supplied in the supplementary material.
+**source data**: data for the present study are provided in this manuscript, with additional source data supplied in the supplementary material.
 
 **Code:**
 ---
