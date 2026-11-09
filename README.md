@@ -32,3 +32,9 @@
 ---
 Raw metagenomic sequencing data from the AS microcosm experiment were deposited in NCBI BioProject under accession number PRJNA1455995. Raw metabolomics data for the AS microcosm experiment are available at figshare (https://doi.org/10.6084/m9.figshare.34355151).
 
+
+**Correspondence:**
+---
+For more information, contact Prof. Patrick K. H. Lee (E-mail: patrick.kh.lee@cityu.edu.hk) and Dr. Huaxin LEI (E-mail: huaxinlei2-c@my.cityu.edu.hk).
+
+
