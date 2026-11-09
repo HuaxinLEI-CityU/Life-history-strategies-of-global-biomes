@@ -1,12 +1,15 @@
-**Supporting materials for manuscript: "Trophic status modulates prokaryotic cross-biome life-history strategies"**
+<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/f2dc475d-c7f6-4a16-a0a2-790510651fde" />**Supporting materials for manuscript: "Trophic status modulates prokaryotic cross-biome life-history strategies"**
 ===
+
+**Files:**
+---
 
 **genome dereplication:** reports of genome dereplication using dRep.
 
 
 **source data:** data for the present study are provided in this manuscript, with additional source data supplied in the supplementary material.
 
-**Code:**
+**Codes:**
 ---
 
 **metawrap.sh:** MetaWRAP assembles reads into contigs, and subsequently bins the contigs into metagenome-assembled genomes (MAGs).
