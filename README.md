@@ -26,3 +26,9 @@
 **KEGG_pathway_enrichment.R:** R script for KEGG pathway enrichment analysis based on abundance differential KOs.
 
 **get_PTM.py:** extract potentially transferable metabolites (modified based on https://github.com/mgtools/PhyloMint/blob/master/lib/BuildGraphNetX.py).
+
+
+**Raw data:**
+---
+Raw metagenomic sequencing data from the AS microcosm experiment were deposited in NCBI BioProject under accession number PRJNA1455995. Raw metabolomics data for the AS microcosm experiment are available at figshare (https://doi.org/10.6084/m9.figshare.34355151).
+
