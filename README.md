@@ -4,7 +4,7 @@
 
 **Introduction:**
 ---
-We compiled >1,300 publicly available metagenomes representing four globally distributed biomes that contrast in trophic conditions and degrees of anthropogenic impact: marine waters, built environment (BE) surfaces, soils, and wastewater treatment plant (WWTP)-activated sludge (AS) to test the hypothesis: trophic status consistently determines prokaryotic strategies across biomes: oligotrophic conditions favor genome streamlining and resource-use efficiency; copiotrophic conditions favor larger genomes and broader metabolic versatility. This link contains the code used in this study, the generated intermediate files, and the raw data, to ensure reproducibility and public accessibility.
+We compiled >1,300 publicly available metagenomes representing four globally distributed biomes that contrast in trophic conditions and degrees of anthropogenic impact: marine waters, built environment (BE) surfaces, soils, and wastewater treatment plant (WWTP)-activated sludge (AS) to test the hypothesis: trophic status consistently determines prokaryotic strategies across biomes: oligotrophic conditions favor genome streamlining and resource-use efficiency; copiotrophic conditions favor larger genomes and broader metabolic versatility. This link contains the code used in this study, the generated intermediate files, and the source data, to ensure reproducibility and public accessibility.
 
 
 **Files:**
