@@ -1,4 +1,4 @@
-<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/f2dc475d-c7f6-4a16-a0a2-790510651fde" />**Supporting materials for manuscript: "Trophic status modulates prokaryotic cross-biome life-history strategies"**
+**Supporting materials for manuscript: "Trophic status modulates prokaryotic cross-biome life-history strategies"**
 ===
 
 
